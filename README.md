@@ -1,6 +1,6 @@
 # Wordy
 
-This app was built to help people learn every word in the English language.
+This app was built to help people learn named Chemical Functional Group.
 
 You will need to run `pod install` to use Google Mobile Ads.
 
