@@ -1,4 +1,4 @@
-# Wordy Chemical Functional Group
+# Wordy Chemical Functional Groups
 
 This app was built to help people learn named Chemical Functional Group.
 
